@@ -1,4 +1,0 @@
-Demo
-====
-
-Testing repository
