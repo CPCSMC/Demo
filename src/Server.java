@@ -37,7 +37,7 @@ public class Server extends JFrame {
 			
 			DataInputStream inputFromClient = new DataInputStream(socket.getInputStream());
 			DataOutputStream outputToClient = new DataOutputStream(socket.getOutputStream());
-			
+			//added new comment right here
 			while(true) {
 				
 				jta.append("before input");
